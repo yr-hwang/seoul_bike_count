@@ -1,1 +1,1 @@
-# seoul_bike_count
+# Machine Learning Term Project: Seoul Public Bike Demand Prediction Model
