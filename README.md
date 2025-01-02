@@ -10,11 +10,11 @@ The task was evaluated on the following baseline models:
 * MLP Regressor
 
 The results of the final model chosen using random search is as follows.
-Model with the best CV score: MLP Regressor
-Best CV Score: 0.9519
-Best Hyperparameters: {'solver': 'adam', 'learning_rate': 'adaptive', 'hidden_layer_sizes': (100, 100), 'alpha': 0.0001, 'activation': 'relu'}
+* Model with the best CV score: MLP Regressor
+* Best CV Score: 0.9519
+* Best Hyperparameters: {'solver': 'adam', 'learning_rate': 'adaptive', 'hidden_layer_sizes': (100, 100), 'alpha': 0.0001, 'activation': 'relu'}
 
 The results of the final model evaluated on the test set is as follows:
-Test RMSE: 614683.5829
-Test MAE: 456453.3745
-Test R-squared: -906849.6396
+* Test RMSE: 614683.5829
+* Test MAE: 456453.3745
+* Test R-squared: -906849.6396
